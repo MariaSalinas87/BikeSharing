@@ -1,5 +1,16 @@
 # bikesharing
 
+PURPOSE 
+
+One of the key stakeholders would like to see a bike trip analysis.
+
+For this analysis, I used Pandas to change the "tripduration" column from an integer to a datetime datatype. Then, using the converted datatype, I created a set of visualizations to:
+
+Show the length of time that bikes are checked out for all riders and genders
+Show the number of bike trips for all riders and genders for each hour of each day of the week
+Show the number of bike trips for each type of user and gender for each day of the week.
+Finally, you’ll add these new visualizations to the two you created in this module for your final presentation and analysis to pitch to investors.
+
 Deliverable 2
 
 
@@ -42,7 +53,10 @@ This graph dividing the usertype of customer and subscriber. Most of the users a
 ![image](https://user-images.githubusercontent.com/112505962/213305972-326b1117-4cda-4b59-8384-1bc225b11fcb.png)
 
 
+SUMMARY
 
+Based on all of my research the bikes are mostly rented during work rush hour, at around 6pm to 8pm and 4pm to 6pm.
+Two new additional visualizations I would recommend is one that compares August to holidays season like December and low season like April. This will be useful to see how lower and busier months do. The next one I would suggest, is for one that gets info for a more rural place not as busy at New York.
 
 [link to dashboard] [https://public.tableau.com/views/NewYorkCitiData-Challenge15/ChallengeStory?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link]
 
